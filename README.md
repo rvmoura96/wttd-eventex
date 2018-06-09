@@ -7,4 +7,5 @@ Para instalação das depêndencias  aplicação:
 Após a instalação das depêndencias da aplicação, configurar o arquivo .env
 utilizado pelo python-decouple basta inicia-la através do
 comando:
+
  ``` python manage.py runserver ```
