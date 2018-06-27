@@ -2,6 +2,9 @@
 
 Repositório contendo a aplicação desenvolvida durante o cuso #WTTD.
 
+[![Build Status](https://travis-ci.org/rvmoura96/wttd-eventex.svg?branch=master)](https://travis-ci.org/rvmoura96/wttd-eventex)
+[![Code Health](https://landscape.io/github/rvmoura96/wttd-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/rvmoura96/wttd-eventex/master)
+
 
 ## Como desenvolver?
 * Clone o repositório.
