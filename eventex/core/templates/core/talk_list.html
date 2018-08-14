@@ -16,6 +16,13 @@
         {% empty %}
         <p>Ainda não há palestras de tarde.</p>
         {% endfor %}
+
+        <h2>Mini-Cursos</h2>
+       {% for course in courses %}
+        {% include 'core/talk_list_snippet.html' with talk=course only %}
+        {% empty %}
+        <p>Ainda não há cursos cadastrados.</p>
+        {% endfor %}
     </div>
 </section>
 {% endblock %}
